@@ -1,3 +1,6 @@
+# pip install geoip2
+#python .\getDomainFromIps.py
+#
 import geoip2.database
 import re
 
